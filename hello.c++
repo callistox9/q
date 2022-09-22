@@ -1,0 +1,3 @@
+iusdgiufgsiusgdgfd
+dfsghdghd
+__GCC_HAVE_DWARF2_CFI_ASMhd
